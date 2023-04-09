@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div align = "center">
-Hi there! 👋 I am a student with a passion for coding and building things. 🌱 I love exploring new programming languages and technologies and enjoy working on projects that can have a positive impact on society.<br><br>🔭 Currently, I am focusing on developing my skills in web development. I am eager to collaborate with other developers and contribute to meaningful projects that can help me grow as a software engineer.
+Hi there! 👋 I am a student with a passion for coding and building things. 🌱 I love exploring new programming languages and technologies and enjoy working on projects that can have a positive impact on society.<br><br>🔭 Currently, I am focusing on developing my skills in web and mobile development. I am eager to collaborate with other developers and contribute to meaningful projects that can help me grow as a software engineer.
 </div>
 
 ## 🌐 Socials:
