@@ -17,7 +17,7 @@ Hi there! 👋 I am a student with a passion for coding and building things. �
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rpyncierto&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
